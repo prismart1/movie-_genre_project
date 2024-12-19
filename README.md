@@ -59,6 +59,11 @@ This project focuses on analyzing and visualizing a sample movie dataset. The no
 - The genre that generates the highest revenue.
 - Trends in movie production over the years.
 
+- ## Known Issues
+- Dataset is artificially created and may not represent real-world scenarios.
+- Performance may vary with large datasets.
+
+
 ## Future Enhancements
 - Incorporate additional datasets for more comprehensive analysis.
 - Apply machine learning techniques to predict movie success.
